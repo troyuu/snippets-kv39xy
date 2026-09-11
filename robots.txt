@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://troyuu.github.io/snippets-kv39xy/sitemap.xml
