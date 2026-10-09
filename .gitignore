@@ -1,0 +1,3 @@
+
+# Keep local environment backups and credential files out of Git.
+.env.pre-*
